@@ -1,0 +1,11 @@
+
+Ê
+library.protocom.redhat.jdgdemo.model"v
+Book
+title (	
+description (	
+publicationYear (1
+authors (2 .com.redhat.jdgdemo.model.Author"'
+Author
+name (	
+surname (	
